@@ -1,0 +1,81 @@
+.campo {
+    background-color: green;
+    height: 400px;
+    margin: 4px;
+    position: absolute;
+    width: 700px;
+	
+}
+
+.lines {
+    border: 4px solid white;
+	height: 340px;
+	margin-top: 30px;
+	margin-left: 30px;
+    position: absolute;
+    width: 640px;
+	
+}
+
+.porteria-one {
+    border: 4px solid white;
+    display: inline-block;
+    height: 160px;
+    margin-left: 30px;
+    position: absolute;
+    top: 130px;
+    width: 100px;
+    
+}
+
+.porteria-two {
+    border: 4px solid white;
+    display: inline-block;
+    height: 160px;
+    margin-left: 570px;
+    position: absolute;
+    top: 130px;
+    width: 100px;
+
+}
+
+.circle {
+    border: 4px solid white;
+    border-radius: 100%;
+    display: inline-block;
+    height: 150px;
+    margin-left: 270px;
+    position: relative;
+    top: 120px;
+    width: 150px;
+	
+}
+
+#ball-one {
+    border-radius: 100%;
+    height: 30px;
+    margin-left: 100px;
+    position: relative;
+    top: 120px;
+    width: 30px;
+
+}
+
+#ball-two {
+    border-radius: 100%;
+    height: 30px;
+    margin-left: -210px;
+    position: relative;
+    top: -65px;
+    width: 30px;
+
+}
+
+#ball-three {
+    border-radius: 100%;
+    height: 30px;
+    margin-left: -277px;
+    position: relative;
+    top: -2px;
+    width: 30px;
+}
